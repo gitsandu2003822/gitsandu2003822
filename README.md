@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **UI/UX**
 
-- 🌱 I’m currently learning **c#,Javascript**
+- 🌱 I’m currently learning **c#,Javascript,php,javascript,html,css**
 
 - 💬 Ask me about **Java**
 
