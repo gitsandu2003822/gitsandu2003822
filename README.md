@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gitsandu2003&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=GitSandu2003&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile views" />
 </p>
 
 <div align="center">
@@ -54,7 +54,7 @@ contact: sanduni2003822madu@gmail.com
   <a href="mailto:sanduni2003822madu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/gitsandu2003">
+  <a href="https://github.com/GitSandu2003">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
@@ -102,16 +102,16 @@ contact: sanduni2003822madu@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitsandu2003&show_icons=true&theme=radical&border_radius=10&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitsandu2003&layout=compact&theme=radical&border_radius=10&bg_color=0d1117&title_color=FF69B4&text_color=ffffff" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitSandu2003&show_icons=true&theme=radical&border_radius=10&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSandu2003&layout=compact&theme=radical&border_radius=10&bg_color=0d1117&title_color=FF69B4&text_color=ffffff" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitsandu2003&theme=radical&border_radius=10&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitSandu2003&theme=radical&border_radius=10&background=0d1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitsandu2003&theme=tokyo-night&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitSandu2003&theme=tokyo-night&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ contact: sanduni2003822madu@gmail.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitsandu2003&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GitSandu2003&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
@@ -127,7 +127,8 @@ contact: sanduni2003822madu@gmail.com
 ## 🎵 Vibes
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26pvwvnbaopmbzsysqk6ayf7y&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=FF69B4&bar_color_cover=true" />
+  <img src="https://media.giphy.com/media/kbVCW5XohqeIAMRpuF/giphy.gif" width="200" />
+  <p><em>🎧 Currently vibing to my favorite tunes while coding! 🎵</em></p>
 </div>
 
 ---
