@@ -1,20 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18&height=200&section=header&text=Hi%20👋%20I'm%20Sanduni&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=435&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Undergraduate+at+NIBM+%F0%9F%93%9A;Creative+Developer+%F0%9F%92%BB;Music+Lover+%F0%9F%8E%B5" alt="Typing SVG" />
 </div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gitsandu2003822&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile views" />
 </p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 </div>
-
----
 
 ## 💖 About Me
 
